@@ -1,3 +1,8 @@
+---
+layout: default
+title: VolleyTally Privacy Policy
+---
+
 # VolleyTally Privacy Policy
 
 Last updated: March 24, 2025
