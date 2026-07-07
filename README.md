@@ -1,6 +1,6 @@
 # VolleyTally Privacy Policy
 
-Last updated: March 24, 2025
+Last updated: July 7, 2026
 
 ## Introduction
 
@@ -54,6 +54,12 @@ You have the option to remove advertisements by making an in-app purchase.
 To delete all app data, you can either:
 1. Clear the app's data from your device's settings menu
 2. Uninstall the app
+
+## Data Deletion Requests
+
+Your match data (team names, scores, and settings) is stored only on your device — remove it anytime by clearing the app's data in your device settings or uninstalling VolleyTally.
+
+If you submit feedback through the app, your message — and the email address you optionally include — is sent to and stored on our servers so we can read and respond to it. To request deletion of feedback you've submitted, email harpelleapps@gmail.com with the subject "Delete my feedback data." We will delete your message and any email address you provided within 30 days of the request. We otherwise retain feedback submissions for up to 24 months.
 
 ## Children's Privacy
 
