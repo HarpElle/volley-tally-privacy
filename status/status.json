@@ -1,0 +1,30 @@
+{
+  "schema": "harpelle-status/1",
+  "repo": "HarpElle/volley-tally-privacy",
+  "name": "VolleyTally privacy",
+  "kind": "Static privacy policy",
+  "stage": "live",
+  "health": "idle",
+  "summary": "Privacy policy with data deletion section (2026-07-07).",
+  "updatedAt": "2026-09-04",
+  "updatedBy": "Claude Code (Fable 5.1)",
+  "current": [
+    "No change since 2026-07-07."
+  ],
+  "inFlight": [],
+  "blockers": [],
+  "decisions": [],
+  "next": [
+    "Review when VolleyTally 4.0 ships."
+  ],
+  "later": [
+    "Consolidate into harpelle.com privacy pages."
+  ],
+  "intentions": "Accurate.",
+  "links": [
+    {
+      "label": "Repo",
+      "url": "https://github.com/HarpElle/volley-tally-privacy"
+    }
+  ]
+}
